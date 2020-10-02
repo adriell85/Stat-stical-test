@@ -1,3 +1,8 @@
+""" Em estatística, o teste Kolmogorov–Smirnov (também conhecido como teste KS ou teste K–S) é um teste não paramétrico de bondade do ajuste sobre a 
+igualdade de distribuições de probabilidade contínuas e unidimensionais que pode ser usado para comparar uma amostra com uma distribuição de 
+probabilidade de referência (teste K–S uniamostral) ou duas amostras uma com a outra (teste K–S biamostral). 
+Recebe este nome em homenagem aos matemáticos russos Andrei Kolmogorov e Nikolai Smirnov. """
+
 import statistical_tests as st
 import file_operations as fo
 import numpy as np
